@@ -1,0 +1,9 @@
+com/wooliesx/framework/api/vo/Temperature.class
+com/wooliesx/framework/factory/WebDriverProviderFactory.class
+com/wooliesx/framework/steps/HolidayMakerStepDef.class
+com/wooliesx/framework/api/vo/ForcastModel.class
+com/wooliesx/framework/util/ConfigurationLoader.class
+com/wooliesx/framework/api/vo/WeatherConditions.class
+com/wooliesx/framework/util/DateUtil.class
+com/wooliesx/framework/api/OpenWeatherMapApi.class
+com/wooliesx/framework/util/TemperatureUtil.class
